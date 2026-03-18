@@ -73,3 +73,4 @@ Potential next steps:
 
 ![Front of clock](<Image 1.jpg>)
 ![Inside of clock](<Image 2.jpg>)
+![Image of the fusion 360 body](<Word clock 1.jpeg>)
